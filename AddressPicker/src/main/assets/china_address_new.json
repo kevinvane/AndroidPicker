@@ -1984,5 +1984,108 @@
         "areaList": []
       }
     ]
+  },
+  {
+    "code": "710000",
+    "name": "台湾",
+    "cityList": [
+      {
+        "code": "710100",
+        "name": "台北",
+        "areaList": []
+      },
+      {
+        "code": "710200",
+        "name": "高雄",
+        "areaList": []
+      },
+      {
+        "code": "710300",
+        "name": "台中",
+        "areaList": []
+      },
+      {
+        "code": "710400",
+        "name": "台南",
+        "areaList": []
+      },
+      {
+        "code": "710500",
+        "name": "新竹",
+        "areaList": []
+      },
+      {
+        "code": "710600",
+        "name": "基隆",
+        "areaList": []
+      },
+      {
+        "code": "710700",
+        "name": "嘉义",
+        "areaList": []
+      },
+      {
+        "code": "710800",
+        "name": "桃园",
+        "areaList": []
+      },
+      {
+        "code": "710900",
+        "name": "彰化",
+        "areaList": []
+      },
+      {
+        "code": "710900",
+        "name": "云林",
+        "areaList": []
+      },
+      {
+        "code": "711000",
+        "name": "花莲",
+        "areaList": []
+      }
+    ]
+  },
+  {
+    "code": "810000",
+    "name": "香港",
+    "cityList": [
+      {
+        "code": "810100",
+        "name": "香港",
+        "areaList": []
+      },
+      {
+        "code": "810200",
+        "name": "九龙",
+        "areaList": []
+      },
+      {
+        "code": "810300",
+        "name": "新界",
+        "areaList": []
+      }
+    ]
+  },
+  {
+    "code": "820000",
+    "name": "澳门",
+    "cityList": [
+      {
+        "code": "820100",
+        "name": "澳门",
+        "areaList": []
+      },
+      {
+        "code": "820200",
+        "name": "氹仔岛",
+        "areaList": []
+      },
+      {
+        "code": "820300",
+        "name": "路环岛",
+        "areaList": []
+      }
+    ]
   }
 ]
