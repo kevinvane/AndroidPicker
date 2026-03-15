@@ -128,7 +128,7 @@ public class AddressPicker extends LinkagePicker implements AddressReceiver {
     }
 
     public void setAddressMode(@AddressMode int addressMode) {
-        setAddressMode("china_address.json", addressMode);
+        setAddressMode("china_address_new.json", addressMode);
     }
 
     public void setAddressMode(@NonNull String assetPath, @AddressMode int addressMode) {
